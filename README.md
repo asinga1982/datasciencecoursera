@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for Data Scientist Course
+Repository for Data Scientist Programme
